@@ -8,7 +8,7 @@
 
    echo $_POST['nom'];
         
-    $destinataire = 'tedxump@gmail.com';
+    $destinataire = 'saadiafatini33@gmail.com';
     // Pour les champs $expediteur / $copie / $destinataire, séparer par une virgule s'il y a plusieurs adresses
     $expediteur = $_POST['email'];
      
